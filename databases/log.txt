@@ -1,0 +1,3 @@
+2024-12-08 00:39:11 - Faculty created: Facultatea de calculatoare
+2024-12-08 00:39:56 - Student created: ds dsg and assigned to Facultatea de calculatoare
+2024-12-08 00:41:18 - Student graduated: ds dsg

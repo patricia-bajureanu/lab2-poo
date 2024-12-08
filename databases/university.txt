@@ -1,0 +1,2 @@
+Faculty: Facultatea de calculatoare,FCIM,MECHANICAL_ENGINEERING
+Student: ds,dsg,dgd,2024-12-03,2024-12-23,True
